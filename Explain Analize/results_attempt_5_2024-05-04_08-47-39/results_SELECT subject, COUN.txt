@@ -1,0 +1,1 @@
+{'best_case': 3460.04, 'average_case': 10380.119999999999, 'worst_case': 17300.2}
